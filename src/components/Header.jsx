@@ -25,7 +25,6 @@ const Header = ({ sidebarOpen, setSidebarOpen, loadSample, reset, previewRef, da
               </svg>
             )}
           </button>
-          <img src="/public/favicon.png" alt="favicon" className='h-15'/>
           <h1 className="text-xl md:text-2xl font-bold bg-linear-to-r from-gray-100 to-gray-300 bg-clip-text text-transparent">
             Smart Resume Builder
           </h1>
